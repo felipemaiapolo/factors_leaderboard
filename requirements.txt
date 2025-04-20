@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+matplotlib
+tqdm
+torch
+factor_analyzer
